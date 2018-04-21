@@ -1,0 +1,16 @@
+.container {
+	display: flex;
+	justify-content: center;
+}
+
+
+button {
+	margin: 100px;
+	align-self: center;
+}
+
+img {
+	height: 300px;
+	width: 400px;
+	margin: 20px;
+}
